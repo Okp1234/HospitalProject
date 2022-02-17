@@ -10,3 +10,4 @@ the main feature of this website are:
 ✔ responsive testimonial / review card section using css grid.
 ✔ responsive blogs / post / news box section using css grid.
 ✔ responsive footer section using css grid.
+I deployed this website with the help of static web on Azure Storage Account
